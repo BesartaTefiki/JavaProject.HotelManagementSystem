@@ -47,15 +47,18 @@ for details on our code of conduct and the process for submitting pull requests.
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
 
-## Usage
+### Usage
 
 To use the system, simply run the API request in Insomnia (or a similar tool) with the room number you want to book. The system will return a message of either `true` or `false`, indicating whether the room is available for booking.
 
-## Contributing
+## Endpoint
+GET http://localhost:8080/api/rooms/test/1
 
-We welcome contributions to the project. Please read [CONTRIBUTING.md](https://github.com/username/hotel-room-booking-system/blob/master/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+ The part that is needed to be added at Insomnia is:
+ {
+	 	room_number: 10,
+	 	room_type: "suite",
+		is_available: true
+}
 
-## License
-
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
 
