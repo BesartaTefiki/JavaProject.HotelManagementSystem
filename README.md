@@ -20,8 +20,10 @@ You will need the following software and libraries installed on your machine:
 ### Installing
 
 1. Clone the repository
+```
  Git clone:
 [https://github.com/username/hotel-room-booking-system.git](https://github.com/username/hotel-room-booking-system.git)
+```
 
 2. Open the project in IntelliJ IDEA
 
