@@ -38,10 +38,6 @@ gradle bootRun
 To use the system, simply run the API request in Insomnia (or a similar tool) with the room number you want to book.
 The system will return a message of either `true` or `false`, indicating whether the room is available for booking.
 
-## Contributing
-
-We welcome contributions to the project. Please read [CONTRIBUTING.md](https://github.com/username/hotel-room-booking-system/blob/master/CONTRIBUTING.md) 
-for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
