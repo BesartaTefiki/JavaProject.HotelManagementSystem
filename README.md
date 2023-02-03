@@ -11,7 +11,7 @@ These instructions will help you set up the project on your local machine for de
 
 You will need the following software and libraries installed on your machine:
 
-- Java 8 or higher
+- Java 8 or later
 - Gradle
 - Spring Boot framework
 - IntelliJ IDEA
@@ -25,7 +25,7 @@ git clone https://github.com/username/hotel-room-booking-system.git
 2. Open the project in IntelliJ IDEA
 
 3. Build the project using Gradle
-gradle build
+Gradle build
 4. Run the project
 
 
