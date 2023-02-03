@@ -1,9 +1,9 @@
 Hotel Mangament system
-# Hotel Room Booking System
+Hotel Room Booking System
 
 A Java-based system for booking rooms at a hotel. The system checks the availability of rooms in the database and returns a confirmation message of `true` or `false` for the room booking request. The project is built using Gradle in the Spring Boot framework and executed in Insomnia. 
 
-## Getting Started
+Setup
 
 These instructions will help you set up the project on your local machine for development and testing purposes.
 
@@ -20,7 +20,8 @@ You will need the following software and libraries installed on your machine:
 ### Installing
 
 1. Clone the repository
-[git clone] (https://github.com/username/hotel-room-booking-system.git)
+[git clone]
+(https://github.com/username/hotel-room-booking-system.git)
 
 2. Open the project in IntelliJ IDEA
 
