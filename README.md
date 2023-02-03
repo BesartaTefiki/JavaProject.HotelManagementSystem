@@ -28,7 +28,7 @@ You will need the following software and libraries installed on your machine:
 
 3. Build the project using Gradle
 ```
-Gradle build
+gradle build
 ```
 4. Run the project
 ```
