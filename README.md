@@ -44,10 +44,6 @@ The system will return a message of either `true` or `false`, indicating whether
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
 
-### Usage
-
-To use the system, simply run the API request in Insomnia (or a similar tool) with the room number you want to book. The system will return a message of either `true` or `false`, indicating whether the room is available for booking.
-
 ## Endpoint
 GET http://localhost:8080/api/rooms/test/1
 
