@@ -1,0 +1,59 @@
+Hotel Mangament system
+# Hotel Room Booking System
+
+A Java-based system for booking rooms at a hotel. The system checks the availability of rooms in the database and returns a confirmation message of `true` or `false` for the room booking request. The project is built using Gradle in the Spring Boot framework and executed in Insomnia. 
+
+## Getting Started
+
+These instructions will help you set up the project on your local machine for development and testing purposes.
+
+### Prerequisites
+
+You will need the following software and libraries installed on your machine:
+
+- Java 8 or higher
+- Gradle
+- Spring Boot framework
+- IntelliJ IDEA
+- Insomnia (or a similar API testing tool)
+
+### Installing
+
+1. Clone the repository
+git clone https://github.com/username/hotel-room-booking-system.git
+
+2. Open the project in IntelliJ IDEA
+
+3. Build the project using Gradle
+gradle build
+4. Run the project
+
+
+gradle bootRun
+
+## Usage
+
+To use the system, simply run the API request in Insomnia (or a similar tool) with the room number you want to book.
+The system will return a message of either `true` or `false`, indicating whether the room is available for booking.
+
+## Contributing
+
+We welcome contributions to the project. Please read [CONTRIBUTING.md](https://github.com/username/hotel-room-booking-system/blob/master/CONTRIBUTING.md) 
+for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
+
+## Usage
+
+To use the system, simply run the API request in Insomnia (or a similar tool) with the room number you want to book. The system will return a message of either `true` or `false`, indicating whether the room is available for booking.
+
+## Contributing
+
+We welcome contributions to the project. Please read [CONTRIBUTING.md](https://github.com/username/hotel-room-booking-system/blob/master/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
+
