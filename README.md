@@ -27,12 +27,13 @@ You will need the following software and libraries installed on your machine:
 2. Open the project in IntelliJ IDEA
 
 3. Build the project using Gradle
+```
 Gradle build
+```
 4. Run the project
-
-
+```
 gradle bootRun
-
+```
 ## Usage
 
 To use the system, simply run the API request in Insomnia (or a similar tool) with the room number you want to book.
